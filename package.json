@@ -4,7 +4,8 @@
   "description": "A fun code challenge for Marxent employment.",
   "main": "dist/index.html",
   "scripts": {
-    "build": "parcel public/index.html"
+    "build": "parcel build public/index.html",
+    "dev": "parcel public/index.html"
   },
   "author": "Aaron Arney <aaron.arney@pm.me>",
   "license": "ISC",
