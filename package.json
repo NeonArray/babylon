@@ -1,14 +1,12 @@
 {
-  "name": "babylon",
+  "name": "marxent-test",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A fun code challenge for Marxent employment.",
+  "main": "dist/index.html",
   "scripts": {
-    "build": "tsc",
-    "watch": "parcel public/index.html"
+    "build": "parcel public/index.html"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Aaron Arney <aaron.arney@pm.me>",
   "license": "ISC",
   "devDependencies": {
     "@babylonjs/core": "^4.2.0",
